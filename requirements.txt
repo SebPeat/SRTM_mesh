@@ -1,4 +1,5 @@
 python-srtm
 requests
 meshio
-meshPy
+pybind11
+MeshPy
