@@ -1,3 +1,4 @@
 *.hgt
 *.vtk
 downloads
+*.npy
