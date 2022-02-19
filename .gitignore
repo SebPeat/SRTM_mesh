@@ -2,3 +2,4 @@
 *.vtk
 downloads
 *.npy
+*.msh
